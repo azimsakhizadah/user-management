@@ -52,4 +52,3 @@ Once logged in, the user can view and update their profile.
 
 The user can log out, which destroys the session.
 
-## screenshots
